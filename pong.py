@@ -127,7 +127,7 @@ def draw_game(window, paddles, ball, left_score, right_score, START):
     # Draw ball
     ball.draw(window)
     
-    if not START:
+    if not START and left_score < WINNING_SCORE and right_score < WINNING_SCORE:
         start_text = SCORE_FONT.render("Press Space to Play", True, WHITE)
         window.blit(start_text, (WIDTH // 2 - start_text.get_width() // 2, HEIGHT // 2 - start_text.get_height() // 2))
 
