@@ -3,7 +3,7 @@
 A classic two-player Pong game built with Python and the Pygame library. This project features dynamic ball physics, sound effects, and a simple, clean interface.
 
 
-<img src="screenshots/Startscreen.png" alt="Gameplay Screenshot" width=30%> &nbsp;&nbsp; <img src="Screenshots/moves.png" alt="Gameplay Screenshot" width=30%> &nbsp;&nbsp; <img src="Screenshots/winscreen.png" alt="Gameplay Screenshot" width=30%>
+<img src="screenshots/Startscreen.png" alt="Gameplay Screenshot" width=30%> &nbsp;&nbsp; <img src="screenshots/moves.png" alt="Gameplay Screenshot" width=30%> &nbsp;&nbsp; <img src="screenshots/winscreen.png" alt="Gameplay Screenshot" width=30%>
 
 
 
@@ -84,3 +84,4 @@ This project is split into two main Python files, separating game logic from the
 ├── requirements.txt  # Python dependencies
 └── README.md         # This file
 ```
+
